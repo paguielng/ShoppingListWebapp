@@ -1,5 +1,5 @@
-# ShoppingListCloud
-`ShoppingListCloud` (ou `ShopListSync` pour une version plus courte)*. Application-web cloud de listes de courses multiplateforme pour **Application mobile** **[ShoppingListApp](https://github.com/paguielng/ShoppingListApp/)**. Synchronisation en temps réel, accès depuis tous appareils. 
+# ShoppingListWebApp
+`Application-web` de listes de courses multiplateforme pour **Application mobile** **[ShoppingListApp](https://github.com/paguielng/ShoppingListApp/)**. Synchronisation en temps réel, accès depuis tous appareils. 
 `Prototyp` sur **[ShoppingListWebapp](https://shoppiweb.netlify.app/)** 
 (*Vue optimal sur ordinateur*).
 
