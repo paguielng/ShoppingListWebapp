@@ -28,7 +28,7 @@ const Navbar: React.FC<NavbarProps> = ({ onCreateList }) => {
           <div className="flex items-center">
             <div className="flex-shrink-0 flex items-center">
               <ShoppingBagIcon className="h-8 w-8 text-blue-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">ShoppingListApp</span>
+              <span className="ml-2 text-xl font-bold text-gray-900">Shopis</span>
             </div>
           </div>
 
